@@ -1,0 +1,131 @@
+{
+  "version": 1,
+  "theme": "editorial",
+  "accent": "#636c48",
+  "font": "serif",
+  "spacing": "normal",
+  "motion": "rise",
+  "sample": true,
+  "selected": "intro",
+  "blocks": [
+    {
+      "id": "intro",
+      "type": "bio",
+      "label": "个人介绍",
+      "visible": true,
+      "data": {
+        "name": "林予安",
+        "english": "YUAN LIN",
+        "role": "VISUAL STORYTELLER / 视觉创作",
+        "headline": "在影像与日常之间，寻找新的观看方式。",
+        "description": "这是一个可编辑的示例作品集。\n上传你的真实作品，写下你的创作过程，让每一个项目都被理解。",
+        "location": "杭州 / OPEN FOR COLLABORATION",
+        "image": "",
+        "imageCaption": "A PERSONAL COLLECTION / 2026"
+      }
+    },
+    {
+      "id": "block1",
+      "type": "projects",
+      "label": "精选作品",
+      "visible": true,
+      "data": {
+        "title": "精选作品",
+        "intro": "从一个问题开始，到一种新的表达。以下项目均为虚构示例。",
+        "layout": "grid",
+        "items": [
+          {
+            "title": "山间来信",
+            "category": "摄影 / 视觉叙事",
+            "year": "2026",
+            "role": "独立创作（示例）",
+            "description": "示例：围绕人与自然的关系展开观察。此处可写项目背景、你的工作和最终成果。",
+            "image": "",
+            "url": ""
+          },
+          {
+            "title": "慢行城市",
+            "category": "设计 / 观察计划",
+            "year": "2025",
+            "role": "视觉设计（示例）",
+            "description": "示例：从街区漫步出发，整理声音、图像与文字，尝试构建一份可被阅读的城市记录。",
+            "image": "",
+            "url": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "block2",
+      "type": "text",
+      "label": "文字叙述",
+      "visible": true,
+      "data": {
+        "title": "关于我的创作",
+        "intro": "A NOTE ON PRACTICE",
+        "body": "这是示例文字，你可以在这里写下真实的创作理念。\n好的作品集不仅展示结果，也让人看见选择：为什么开始，怎样推进，以及你在其中承担了什么。\n让内容保持真实，让表达保留自己的声音。"
+      }
+    },
+    {
+      "id": "block3",
+      "type": "gallery",
+      "label": "图片画廊",
+      "visible": true,
+      "data": {
+        "title": "观看的片段",
+        "intro": "不急着定义，让图像先说话。",
+        "layout": "grid",
+        "items": [
+          {
+            "caption": "光与地形 / 示例图形",
+            "image": ""
+          },
+          {
+            "caption": "空间与温度 / 示例图形",
+            "image": ""
+          },
+          {
+            "caption": "城市的节奏 / 示例图形",
+            "image": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "block4",
+      "type": "timeline",
+      "label": "成长经历",
+      "visible": true,
+      "data": {
+        "title": "一路走来",
+        "intro": "教育、实践与持续发生的探索。",
+        "items": [
+          {
+            "period": "2024 — 2026",
+            "title": "视觉创作学习与实践（示例）",
+            "description": "此处填写你的学校、专业或工作经历。"
+          },
+          {
+            "period": "2023",
+            "title": "独立观察计划（示例）",
+            "description": "此处填写一个真实项目，以及你承担的职责。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "block5",
+      "type": "contact",
+      "label": "联系与链接",
+      "visible": true,
+      "data": {
+        "title": "下一个故事，一起开始。",
+        "description": "如果你对我的作品感兴趣，欢迎联系。",
+        "email": "hello@example.com",
+        "wechat": "",
+        "url": "",
+        "linkLabel": "更多作品"
+      }
+    }
+  ]
+}

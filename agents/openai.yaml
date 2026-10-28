@@ -1,0 +1,4 @@
+interface:
+  display_name: "见页作品集工作流"
+  short_description: "从简历与作品整理个人网站，用本地可视化编辑器调整布局并指导部署上线"
+  default_prompt: "使用 $folio-studio 根据我的简历和作品生成可编辑作品集，确认后打包并指导上线。"
